@@ -1,8 +1,9 @@
 "use client";
 
 import Link from "next/link";
+import Image from "next/image";
 import { useState } from "react";
-import { Menu, X, Phone, Heart } from "lucide-react";
+import { Menu, X, Phone } from "lucide-react";
 import { siteConfig } from "@/lib/site";
 
 export function Header() {
@@ -29,13 +30,14 @@ export function Header() {
             href={siteConfig.urls.home}
             className="flex items-center gap-2 group"
           >
-            <Heart
-              className="w-6 h-6 text-navy group-hover:text-green transition-colors"
-              fill="currentColor"
+            <Image
+              src="/logo.png"
+              alt="PSW - Calgary Home Care & Healthcare Staffing"
+              width={56}
+              height={56}
+              className="w-12 h-12 sm:w-14 sm:h-14 object-contain"
+              priority
             />
-            <span className="text-2xl font-bold text-navy font-heading">
-              {siteConfig.name}
-            </span>
           </Link>
 
           {/* Desktop Navigation */}

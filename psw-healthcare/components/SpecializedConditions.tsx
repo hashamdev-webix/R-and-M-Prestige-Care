@@ -16,15 +16,15 @@ export function SpecializedConditions() {
   const conditions = [
     {
       icon: Brain,
-      title: "Dementia & Alzheimer&#39;s Care",
+      title: "Dementia & Alzheimer's Care",
       description:
         "Structured routines, memory cues, safety supervision, and emotional support delivered in the comfort of home.",
     },
     {
       icon: Activity,
-      title: "Parkinson&#39;s Support",
+      title: "Parkinson's Support",
       description:
-        "Mobility assistance, fall prevention, medication reminders, and help with the daily activities Parkinson&#39;s makes difficult.",
+        "Mobility assistance, fall prevention, medication reminders, and help with the daily activities Parkinson's makes difficult.",
     },
     {
       icon: Stethoscope,

@@ -17,7 +17,7 @@ export function ServicesOverview() {
       icon: Home,
       title: "Home Care Services",
       description:
-        "In-home support that helps seniors and recovering adults stay safely at home. Personal hygiene, meal prep, medication reminders, mobility help, and companionship built around your loved one&#39;s routine.",
+        "In-home support that helps seniors and recovering adults stay safely at home. Personal hygiene, meal prep, medication reminders, mobility help, and companionship built around your loved one's routine.",
       href: siteConfig.urls.homeCare,
     },
     {
@@ -36,7 +36,7 @@ export function ServicesOverview() {
     },
     {
       icon: Brain,
-      title: "Dementia & Alzheimer&#39;s Care",
+      title: "Dementia & Alzheimer's Care",
       description:
         "Specialized care for clients living with memory loss or cognitive decline. Structured routines, memory cues, calm hands-on support, and safety supervision that reduces stress for clients and families.",
       href: siteConfig.urls.homeCare,
@@ -88,7 +88,7 @@ export function ServicesOverview() {
             dressing, mobility and transfer support, meal preparation and
             feeding assistance, medication reminders, companionship, light
             housekeeping, laundry, and overnight or 24-hour supervision. Every
-            care plan is built around the client&#39;s routine, preferences, and
+            care plan is built around the client{"'"}s routine, preferences, and
             dignity.
           </p>
         </div>
@@ -100,7 +100,7 @@ export function ServicesOverview() {
           <p className="text-slate-600 text-center max-w-3xl mx-auto">
             Our home care services help clients live more safely and comfortably
             in their own homes. We provide practical daily support while
-            respecting each client&#39;s independence, privacy, routine, and
+            respecting each client{"'"}s independence, privacy, routine, and
             dignity.
           </p>
         </div>

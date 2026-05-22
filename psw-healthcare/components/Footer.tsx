@@ -1,6 +1,6 @@
 import Link from "next/link";
+import Image from "next/image";
 import {
-  Heart,
   MapPin,
   Phone,
   Mail,
@@ -60,14 +60,16 @@ export function Footer() {
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
           {/* Company Info */}
           <div>
-            <Link
-              href={siteConfig.urls.home}
-              className="flex items-center gap-2 mb-4"
-            >
-              <Heart className="w-6 h-6 text-green" fill="currentColor" />
-              <span className="text-2xl font-bold font-heading">
-                {siteConfig.name}
-              </span>
+            <Link href={siteConfig.urls.home} className="inline-block mb-4">
+              <div className="bg-white rounded-lg p-2 inline-block">
+                <Image
+                  src="/logo.png"
+                  alt="PSW - Calgary Home Care & Healthcare Staffing"
+                  width={64}
+                  height={64}
+                  className="w-16 h-16 object-contain"
+                />
+              </div>
             </Link>
             <p className="text-navy-100 text-sm mb-4">
               Calgary-based home care and healthcare staffing provider helping
@@ -159,7 +161,7 @@ export function Footer() {
                   href={siteConfig.urls.homeCare}
                   className="text-navy-100 hover:text-green transition-colors text-sm"
                 >
-                  Dementia & Alzheimer&#39;s Care
+                  Dementia & Alzheimer{"'"}s Care
                 </Link>
               </li>
               <li>
