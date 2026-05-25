@@ -12,19 +12,25 @@ export default function sitemap(): MetadataRoute.Sitemap {
       priority: 1,
     },
     {
+      url: `${siteUrl}/about`,
+      lastModified: new Date(),
+      changeFrequency: "monthly",
+      priority: 0.9,
+    },
+    {
+      url: `${siteUrl}/free-assessment`,
+      lastModified: new Date(),
+      changeFrequency: "monthly",
+      priority: 0.9,
+    },
+    {
       url: `${siteUrl}${siteConfig.urls.homeCare}`,
       lastModified: new Date(),
       changeFrequency: "monthly",
-      priority: 0.9,
+      priority: 0.8,
     },
     {
       url: `${siteUrl}${siteConfig.urls.forFacilities}`,
-      lastModified: new Date(),
-      changeFrequency: "monthly",
-      priority: 0.9,
-    },
-    {
-      url: `${siteUrl}${siteConfig.urls.about}`,
       lastModified: new Date(),
       changeFrequency: "monthly",
       priority: 0.8,
@@ -39,7 +45,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
       url: `${siteUrl}${siteConfig.urls.contact}`,
       lastModified: new Date(),
       changeFrequency: "yearly",
-      priority: 0.8,
+      priority: 0.7,
     },
   ];
 }

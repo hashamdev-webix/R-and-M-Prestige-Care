@@ -1,6 +1,6 @@
 # Pre-Launch Checklist
 
-Use this checklist before deploying the PSW Healthcare website to production.
+Use this checklist before deploying the R&M Prestige Care Healthcare website to production.
 
 ## ✅ Content Updates
 

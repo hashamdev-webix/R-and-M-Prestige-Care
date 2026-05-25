@@ -1,8 +1,8 @@
-# PSW Healthcare Website - Project Summary
+# R&M Prestige Care Healthcare Website - Project Summary
 
 ## 🎯 Project Overview
 
-A production-ready, SEO-optimized marketing website for PSW, a Calgary-based home care and healthcare staffing provider. Built with Next.js 14+, TypeScript, and Tailwind CSS, designed for Vercel deployment.
+A production-ready, SEO-optimized marketing website for R&M Prestige Care, a Calgary-based home care and healthcare staffing provider. Built with Next.js 14+, TypeScript, and Tailwind CSS, designed for Vercel deployment.
 
 ## ✅ Completed Features
 
@@ -44,7 +44,7 @@ A production-ready, SEO-optimized marketing website for PSW, a Calgary-based hom
 
 8. **CTA Band** ✓
    - Full-width navy background
-   - 3 CTAs: Request Home Care, Request Staffing, Call PSW
+   - 3 CTAs: Request Home Care, Request Staffing, Call R&M Prestige Care
 
 9. **FAQ Section** ✓
    - Accessible accordion (keyboard navigable)
@@ -75,7 +75,7 @@ A production-ready, SEO-optimized marketing website for PSW, a Calgary-based hom
 ### Project Structure
 
 ```
-psw-healthcare/
+rm-prestige-care-healthcare/
 ├── app/
 │   ├── layout.tsx          # Root layout with metadata & JSON-LD
 │   ├── page.tsx            # Home page with FAQ schema
@@ -223,7 +223,7 @@ psw-healthcare/
 
 All company information in one place:
 
-- Company name: PSW
+- Company name: R&M Prestige Care
 - Tagline, description, founding year
 - Contact: phone, email, address
 - Social media links
@@ -393,7 +393,7 @@ vercel --prod          # Deploy to production
 
 ## 📞 Support Information
 
-**Company:** PSW
+**Company:** R&M Prestige Care
 **Phone:** (403) 555-0123 (24/7)
 **Email:** info@pswcalgary.ca
 **Location:** Calgary, AB

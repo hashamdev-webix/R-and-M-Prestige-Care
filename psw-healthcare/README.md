@@ -25,7 +25,7 @@ A production-ready, SEO-optimized marketing website for R&M Prestige Care, a Cal
 ## 🏗️ Project Structure
 
 ```
-psw-healthcare/
+rm-prestige-care-healthcare/
 ├── app/
 │   ├── layout.tsx          # Root layout with metadata & JSON-LD
 │   ├── page.tsx            # Home page
@@ -67,7 +67,7 @@ psw-healthcare/
 
 ```bash
 git clone <your-repo-url>
-cd psw-healthcare
+cd rm-prestige-care-healthcare
 ```
 
 2. Install dependencies:

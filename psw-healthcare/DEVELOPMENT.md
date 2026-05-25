@@ -1,6 +1,6 @@
 # Development Guide
 
-This guide helps you extend the PSW Healthcare website with new pages and features.
+This guide helps you extend the R&M Prestige Care Healthcare website with new pages and features.
 
 ## Project Architecture
 
@@ -40,7 +40,7 @@ import { siteConfig } from "@/lib/site";
 export const metadata: Metadata = {
   title: "About Us",
   description:
-    "Learn about PSW's mission to provide compassionate home care and reliable healthcare staffing in Calgary.",
+    "Learn about R&M Prestige Care's mission to provide compassionate home care and reliable healthcare staffing in Calgary.",
 };
 
 export default function AboutPage() {
@@ -213,7 +213,7 @@ Always include metadata for each page:
 
 ```tsx
 export const metadata: Metadata = {
-  title: "Page Title | PSW",
+  title: "Page Title | R&M Prestige Care",
   description: "Compelling 155-character description with keywords",
   alternates: {
     canonical: "/page-url",

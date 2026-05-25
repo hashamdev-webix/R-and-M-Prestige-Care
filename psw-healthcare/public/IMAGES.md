@@ -1,6 +1,6 @@
 # Image Assets
 
-This document lists the images needed for the PSW Healthcare website.
+This document lists the images needed for the R&M Prestige Care Healthcare website.
 
 ## Required Images
 

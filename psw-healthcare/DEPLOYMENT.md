@@ -1,6 +1,6 @@
 # Deployment Guide
 
-This guide covers deploying the PSW Healthcare website to Vercel.
+This guide covers deploying the R&M Prestige Care Healthcare website to Vercel.
 
 ## Pre-Deployment Checklist
 
@@ -24,7 +24,7 @@ Before deploying, ensure you have:
    ```bash
    git init
    git add .
-   git commit -m "Initial commit: PSW Healthcare website"
+   git commit -m "Initial commit: R&M Prestige Care Healthcare website"
    git branch -M main
    git remote add origin <your-github-repo-url>
    git push -u origin main
