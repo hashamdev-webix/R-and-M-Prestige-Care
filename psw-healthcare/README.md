@@ -112,7 +112,7 @@ npm start
 1. Push your code to GitHub
 2. Import the repository in [Vercel](https://vercel.com)
 3. Set the environment variable:
-   - `NEXT_PUBLIC_SITE_URL` = your production domain (e.g., `https://pswcalgary.ca`)
+   - `NEXT_PUBLIC_SITE_URL` = your production domain (e.g., `https://rmprestigecare.ca`)
 4. Deploy!
 
 Vercel will automatically:
@@ -216,7 +216,7 @@ Components are reusable across all pages.
 For questions or support:
 
 - **Phone:** (403) 555-0123 (24/7)
-- **Email:** info@pswcalgary.ca
+- **Email:** info@rmprestigecare.ca
 - **Address:** 123 Main Street SW, Calgary, AB T2P 1A1
 
 ---

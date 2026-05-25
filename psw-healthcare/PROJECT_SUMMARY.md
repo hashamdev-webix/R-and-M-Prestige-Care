@@ -395,7 +395,7 @@ vercel --prod          # Deploy to production
 
 **Company:** R&M Prestige Care
 **Phone:** (403) 555-0123 (24/7)
-**Email:** info@pswcalgary.ca
+**Email:** info@rmprestigecare.ca
 **Location:** Calgary, AB
 
 ## ✅ Quality Checklist

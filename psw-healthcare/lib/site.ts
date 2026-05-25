@@ -13,7 +13,7 @@ export const siteConfig = {
   contact: {
     phone: "(403) 555-0123",
     phoneRaw: "+14035550123",
-    email: "info@pswcalgary.ca",
+    email: "info@rmprestigecare.ca",
     address: {
       street: "123 Main Street SW",
       city: "Calgary",
@@ -25,9 +25,9 @@ export const siteConfig = {
   },
 
   social: {
-    facebook: "https://facebook.com/pswcalgary",
-    linkedin: "https://linkedin.com/company/pswcalgary",
-    instagram: "https://instagram.com/pswcalgary",
+    facebook: "https://facebook.com/rmprestigecare",
+    linkedin: "https://linkedin.com/company/rmprestigecare",
+    instagram: "https://instagram.com/rmprestigecare",
   },
 
   urls: {

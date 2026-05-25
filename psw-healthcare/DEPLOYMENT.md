@@ -47,7 +47,7 @@ Before deploying, ensure you have:
 
 5. **Add Custom Domain**
    - In Vercel project settings → Domains
-   - Add your custom domain (e.g., `pswcalgary.ca`)
+   - Add your custom domain (e.g., `rmprestigecare.ca`)
    - Follow DNS configuration instructions
    - Vercel provides automatic HTTPS
 
@@ -144,7 +144,7 @@ If you need to rollback:
 
 ### DNS Configuration
 
-For `pswcalgary.ca`:
+For `rmprestigecare.ca`:
 
 **Option A: Using Vercel Nameservers (Recommended)**
 

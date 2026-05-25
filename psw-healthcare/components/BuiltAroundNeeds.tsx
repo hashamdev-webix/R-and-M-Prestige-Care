@@ -41,8 +41,8 @@ export function BuiltAroundNeeds() {
           <div className="relative">
             <div className="relative rounded-2xl overflow-hidden shadow-xl">
               <Image
-                src="https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=800&h=600&fit=crop"
-                alt="Calgary city skyline"
+                src="/images/calgary-skyline.jpg"
+                alt="Calgary downtown city skyline"
                 width={800}
                 height={600}
                 className="w-full h-auto"

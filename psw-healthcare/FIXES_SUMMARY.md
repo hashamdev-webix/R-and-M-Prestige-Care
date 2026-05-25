@@ -50,26 +50,24 @@ Searched entire project for any remaining "PSW" text references and updated:
 6. **README.md** - Updated folder structure example
 7. **public/IMAGES.md** - Updated document title
 
-#### Remaining "PSW" References (Intentional):
+#### Remaining "PSW" References (Now Updated):
 
-The only remaining "PSW" references are in `/lib/site.ts`:
+All "PSW" references in `/lib/site.ts` have been updated:
 
-- `email: "info@pswcalgary.ca"`
-- `facebook: "https://facebook.com/pswcalgary"`
-- `linkedin: "https://linkedin.com/company/pswcalgary"`
-- `instagram: "https://instagram.com/pswcalgary"`
-
-**Note:** These are domain names and social media URLs that may be actual registered domains/accounts. These should be updated by the client when they have the new domain/social accounts set up. They are NOT visible text on the website - they're just URL values.
+- `email: "info@rmprestigecare.ca"` ✅ Updated
+- `facebook: "https://facebook.com/rmprestigecare"` ✅ Updated
+- `linkedin: "https://linkedin.com/company/rmprestigecare"` ✅ Updated
+- `instagram: "https://instagram.com/rmprestigecare"` ✅ Updated
 
 #### Package Files (Not Changed):
 
 - `package.json` - `"name": "psw-healthcare"` (internal package name, not user-facing)
 - `package-lock.json` - Auto-generated, references package name
-- `.env.example` - Example URL comment (not user-facing)
 
 ### Files Changed:
 
 - 7 documentation files updated to remove "PSW" text references
+- `/lib/site.ts` - Updated email and social media URLs
 
 ### Result:
 
@@ -77,7 +75,8 @@ The only remaining "PSW" references are in `/lib/site.ts`:
 ✅ Footer logo visible on navy background with white container
 ✅ All visible "PSW" text references removed from documentation
 ✅ No "PSW" text appears anywhere on the website pages
-✅ Only remaining "PSW" references are in URLs/domains (intentional)
+✅ Email and social media URLs updated to rmprestigecare.ca
+✅ Only remaining "PSW" references are in package.json (internal, not user-facing)
 
 ---
 

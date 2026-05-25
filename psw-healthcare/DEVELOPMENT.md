@@ -326,7 +326,7 @@ export const siteConfig = {
   contact: {
     phone: "(403) 555-0123",
     phoneRaw: "+14035550123",
-    email: "info@pswcalgary.ca",
+    email: "info@rmprestigecare.ca",
     // ...
   },
 };
