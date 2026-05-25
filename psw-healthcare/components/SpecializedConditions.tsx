@@ -82,27 +82,27 @@ export function SpecializedConditions() {
           <div className="order-1 lg:order-2">
             <SectionHeading
               title="Specialized Home Care for Common Conditions"
-              className="mb-8"
+              className="mb-5"
             />
 
-            <div className="space-y-6">
+            <div className="space-y-3">
               {conditions.map((condition, index) => {
                 const Icon = condition.icon;
                 return (
                   <div
                     key={index}
-                    className="flex gap-4 p-4 rounded-xl hover:bg-navy-50 transition-colors"
+                    className="flex gap-3 p-3 rounded-xl hover:bg-navy-50 transition-colors"
                   >
-                    <div className="flex-shrink-0">
-                      <div className="w-12 h-12 bg-green rounded-lg flex items-center justify-center">
-                        <Icon className="w-6 h-6 text-white" />
+                    <div className="shrink-0">
+                      <div className="w-10 h-10 bg-green rounded-lg flex items-center justify-center">
+                        <Icon className="w-5 h-5 text-white" />
                       </div>
                     </div>
                     <div>
-                      <h3 className="text-lg font-bold text-navy mb-1 font-heading">
+                      <h3 className="text-base font-bold text-navy mb-0.5 font-heading leading-snug">
                         {condition.title}
                       </h3>
-                      <p className="text-slate-600 text-sm leading-relaxed">
+                      <p className="text-slate-600 text-sm leading-snug">
                         {condition.description}
                       </p>
                     </div>
