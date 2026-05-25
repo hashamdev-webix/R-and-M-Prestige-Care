@@ -110,15 +110,15 @@ export function Header() {
         className="container mx-auto px-4 sm:px-6 lg:px-8"
         aria-label="Main navigation"
       >
-        <div className="flex items-center justify-between h-20">
+        <div className="flex items-center justify-between h-24">
           {/* Logo */}
           <Link href="/" className="flex items-center gap-2 group">
             <Image
               src="/logo.png"
               alt="R&M Prestige Care - Calgary Home Care & Healthcare Staffing"
-              width={56}
-              height={56}
-              className="w-12 h-12 sm:w-14 sm:h-14 object-contain"
+              width={200}
+              height={60}
+              className="h-14 w-auto object-contain sm:h-16"
               priority
             />
           </Link>

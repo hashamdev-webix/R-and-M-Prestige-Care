@@ -61,15 +61,13 @@ export function Footer() {
           {/* Company Info */}
           <div>
             <Link href={siteConfig.urls.home} className="inline-block mb-4">
-              <div className="bg-white rounded-lg p-2 inline-block">
-                <Image
-                  src="/logo.png"
-                  alt="R&M Prestige Care - Calgary Home Care & Healthcare Staffing"
-                  width={64}
-                  height={64}
-                  className="w-16 h-16 object-contain"
-                />
-              </div>
+              <Image
+                src="/logo.png"
+                alt="R&M Prestige Care - Calgary Home Care & Healthcare Staffing"
+                width={160}
+                height={48}
+                className="h-12 w-auto object-contain brightness-0 invert"
+              />
             </Link>
             <p className="text-navy-100 text-sm mb-4">
               Calgary-based home care and healthcare staffing provider helping
