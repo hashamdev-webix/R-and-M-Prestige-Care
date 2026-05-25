@@ -27,7 +27,7 @@ export const metadata: Metadata = {
     template: `%s | ${siteConfig.name}`,
   },
   description:
-    "PSW provides compassionate Calgary home care for seniors and reliable healthcare staffing for facilities. Certified Healthcare Aides, personal care, dementia support, and 24/7 service.",
+    "R&M Prestige Care provides compassionate Calgary home care for seniors and reliable healthcare staffing for facilities. Certified Healthcare Aides, personal care, dementia support, and 24/7 service.",
   keywords: [
     "Calgary home care",
     "healthcare staffing Calgary",
@@ -50,7 +50,7 @@ export const metadata: Metadata = {
     siteName: siteConfig.name,
     title: `Calgary Home Care & Healthcare Staffing Services | ${siteConfig.name}`,
     description:
-      "PSW provides compassionate Calgary home care for seniors and reliable healthcare staffing for facilities. Certified Healthcare Aides, personal care, dementia support, and 24/7 service.",
+      "R&M Prestige Care provides compassionate Calgary home care for seniors and reliable healthcare staffing for facilities. Certified Healthcare Aides, personal care, dementia support, and 24/7 service.",
     images: [
       {
         url: "/og-image.jpg",

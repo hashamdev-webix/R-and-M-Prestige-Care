@@ -15,7 +15,7 @@ const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || "https://example.com";
 export const metadata: Metadata = {
   title: `Calgary Home Care & Healthcare Staffing Services | ${siteConfig.name}`,
   description:
-    "PSW provides compassionate Calgary home care for seniors and reliable healthcare staffing for facilities. Certified Healthcare Aides, personal care, dementia support, and 24/7 service.",
+    "R&M Prestige Care provides compassionate Calgary home care for seniors and reliable healthcare staffing for facilities. Certified Healthcare Aides, personal care, dementia support, and 24/7 service.",
   alternates: {
     canonical: siteUrl,
   },
@@ -31,7 +31,7 @@ const faqSchema = {
       name: "How do I register for home care in Calgary?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "You can start by contacting PSW through phone, email, or the website inquiry form. Our team will ask about your care needs, preferred schedule, location, and type of support required, then guide you toward the right home care option.",
+        text: "You can start by contacting R&M Prestige Care through phone, email, or the website inquiry form. Our team will ask about your care needs, preferred schedule, location, and type of support required, then guide you toward the right home care option.",
       },
     },
     {
@@ -39,7 +39,7 @@ const faqSchema = {
       name: "How much does home care cost in Calgary?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "The cost of home care in Calgary depends on the type of support needed, the number of hours required, the care schedule, and whether the client needs daytime, overnight, live-in, or 24-hour support. PSW can review your needs and provide a care option based on your schedule, service type, and level of support.",
+        text: "The cost of home care in Calgary depends on the type of support needed, the number of hours required, the care schedule, and whether the client needs daytime, overnight, live-in, or 24-hour support. R&M Prestige Care can review your needs and provide a care option based on your schedule, service type, and level of support.",
       },
     },
     {
@@ -47,7 +47,7 @@ const faqSchema = {
       name: "How quickly can home care start after I call?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "Home care can often be arranged based on caregiver availability, service needs, and schedule requirements. For urgent support, overnight care, or short-notice assistance, PSW can review your request and help you understand the earliest available care option.",
+        text: "Home care can often be arranged based on caregiver availability, service needs, and schedule requirements. For urgent support, overnight care, or short-notice assistance, R&M Prestige Care can review your request and help you understand the earliest available care option.",
       },
     },
     {
@@ -71,7 +71,7 @@ const faqSchema = {
       name: "Can I request overnight or 24-hour care?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "Yes. PSW offers morning shifts, evening shifts, night shifts, overnight care, live-in care, and 24/7 support services depending on client needs and staff availability.",
+        text: "Yes. R&M Prestige Care offers morning shifts, evening shifts, night shifts, overnight care, live-in care, and 24/7 support services depending on client needs and staff availability.",
       },
     },
     {
@@ -79,7 +79,7 @@ const faqSchema = {
       name: "Will I get the same caregiver every visit?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "PSW aims to provide consistent caregiver support whenever possible because familiarity helps build comfort and trust. Caregiver consistency depends on scheduling, care hours, availability, and the level of support required. If a regular caregiver is unavailable, the team works to arrange suitable coverage.",
+        text: "R&M Prestige Care aims to provide consistent caregiver support whenever possible because familiarity helps build comfort and trust. Caregiver consistency depends on scheduling, care hours, availability, and the level of support required. If a regular caregiver is unavailable, the team works to arrange suitable coverage.",
       },
     },
   ],

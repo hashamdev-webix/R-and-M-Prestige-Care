@@ -13,9 +13,9 @@ export function CtaBand() {
         </h2>
         <p className="text-lg text-navy-100 max-w-3xl mx-auto mb-8">
           Whether you are arranging care for a loved one or looking for
-          dependable staffing support for your facility, PSW is ready to help.
-          Request support today and let our team guide you through the next
-          step.
+          dependable staffing support for your facility, R&M Prestige Care is
+          ready to help. Request support today and let our team guide you
+          through the next step.
         </p>
 
         <div className="flex flex-col sm:flex-row gap-4 justify-center items-center">
@@ -34,7 +34,7 @@ export function CtaBand() {
             variant="white"
             size="lg"
           >
-            Call PSW
+            Call R&M Prestige Care
           </Button>
         </div>
       </div>

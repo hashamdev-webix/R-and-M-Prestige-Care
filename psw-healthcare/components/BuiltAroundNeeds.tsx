@@ -18,10 +18,10 @@ export function BuiltAroundNeeds() {
             <div className="space-y-4 text-slate-600 leading-relaxed">
               <p>
                 Finding the right care should feel simple, safe, and reassuring.
-                PSW helps individuals and families arrange dependable in-home
-                support for daily living, personal care, senior assistance,
-                companionship, light housekeeping, overnight supervision, and
-                ongoing care needs.
+                R&M Prestige Care helps individuals and families arrange
+                dependable in-home support for daily living, personal care,
+                senior assistance, companionship, light housekeeping, overnight
+                supervision, and ongoing care needs.
               </p>
               <p>
                 We also help healthcare facilities manage staffing demands by

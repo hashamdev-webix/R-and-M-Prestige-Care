@@ -64,7 +64,7 @@ export function Footer() {
               <div className="bg-white rounded-lg p-2 inline-block">
                 <Image
                   src="/logo.png"
-                  alt="PSW - Calgary Home Care & Healthcare Staffing"
+                  alt="R&M Prestige Care - Calgary Home Care & Healthcare Staffing"
                   width={64}
                   height={64}
                   className="w-16 h-16 object-contain"
@@ -85,7 +85,7 @@ export function Footer() {
             <ul className="space-y-2">
               <li>
                 <Link
-                  href={siteConfig.urls.home}
+                  href="/"
                   className="text-navy-100 hover:text-green transition-colors text-sm"
                 >
                   Home
@@ -93,34 +93,34 @@ export function Footer() {
               </li>
               <li>
                 <Link
-                  href={siteConfig.urls.homeCare}
+                  href="/about"
                   className="text-navy-100 hover:text-green transition-colors text-sm"
                 >
-                  Home Care
+                  About
                 </Link>
               </li>
               <li>
                 <Link
-                  href={siteConfig.urls.forFacilities}
+                  href="/blog"
                   className="text-navy-100 hover:text-green transition-colors text-sm"
                 >
-                  For Facilities
+                  Blog
                 </Link>
               </li>
               <li>
                 <Link
-                  href={siteConfig.urls.about}
-                  className="text-navy-100 hover:text-green transition-colors text-sm"
-                >
-                  About Us
-                </Link>
-              </li>
-              <li>
-                <Link
-                  href={siteConfig.urls.contact}
+                  href="/contact"
                   className="text-navy-100 hover:text-green transition-colors text-sm"
                 >
                   Contact
+                </Link>
+              </li>
+              <li>
+                <Link
+                  href="/free-assessment"
+                  className="text-navy-100 hover:text-green transition-colors text-sm"
+                >
+                  Free Assessment
                 </Link>
               </li>
             </ul>
@@ -134,7 +134,7 @@ export function Footer() {
             <ul className="space-y-2">
               <li>
                 <Link
-                  href={siteConfig.urls.homeCare}
+                  href="/home-care-calgary"
                   className="text-navy-100 hover:text-green transition-colors text-sm"
                 >
                   Home Care Services
@@ -142,15 +142,7 @@ export function Footer() {
               </li>
               <li>
                 <Link
-                  href={siteConfig.urls.homeCare}
-                  className="text-navy-100 hover:text-green transition-colors text-sm"
-                >
-                  Personal Care Assistance
-                </Link>
-              </li>
-              <li>
-                <Link
-                  href={siteConfig.urls.homeCare}
+                  href="/senior-care-calgary"
                   className="text-navy-100 hover:text-green transition-colors text-sm"
                 >
                   Senior Care
@@ -158,7 +150,15 @@ export function Footer() {
               </li>
               <li>
                 <Link
-                  href={siteConfig.urls.homeCare}
+                  href="/personal-care-calgary"
+                  className="text-navy-100 hover:text-green transition-colors text-sm"
+                >
+                  Personal Care Assistance
+                </Link>
+              </li>
+              <li>
+                <Link
+                  href="/dementia-alzheimers-care-calgary"
                   className="text-navy-100 hover:text-green transition-colors text-sm"
                 >
                   Dementia & Alzheimer{"'"}s Care
@@ -166,10 +166,10 @@ export function Footer() {
               </li>
               <li>
                 <Link
-                  href={siteConfig.urls.forFacilities}
+                  href="/healthcare-staffing-calgary"
                   className="text-navy-100 hover:text-green transition-colors text-sm"
                 >
-                  Healthcare Staffing for Facilities
+                  Healthcare Staffing
                 </Link>
               </li>
             </ul>

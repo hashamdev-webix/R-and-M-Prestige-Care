@@ -1,6 +1,6 @@
-# PSW Healthcare - Calgary Home Care & Healthcare Staffing
+# R&M Prestige Care - Calgary Home Care & Healthcare Staffing
 
-A production-ready, SEO-optimized marketing website for PSW, a Calgary-based home care and healthcare staffing provider.
+A production-ready, SEO-optimized marketing website for R&M Prestige Care, a Calgary-based home care and healthcare staffing provider.
 
 ## 🚀 Tech Stack
 
@@ -209,7 +209,7 @@ Components are reusable across all pages.
 
 ## 📄 License
 
-© 2015–2026 PSW. All rights reserved.
+© 2015–2026 R&M Prestige Care. All rights reserved.
 
 ## 🤝 Support
 

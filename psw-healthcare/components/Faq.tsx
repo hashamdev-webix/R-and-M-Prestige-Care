@@ -13,17 +13,17 @@ const faqData: FaqItem[] = [
   {
     question: "How do I register for home care in Calgary?",
     answer:
-      "You can start by contacting PSW through phone, email, or the website inquiry form. Our team will ask about your care needs, preferred schedule, location, and type of support required, then guide you toward the right home care option.",
+      "You can start by contacting R&M Prestige Care through phone, email, or the website inquiry form. Our team will ask about your care needs, preferred schedule, location, and type of support required, then guide you toward the right home care option.",
   },
   {
     question: "How much does home care cost in Calgary?",
     answer:
-      "The cost of home care in Calgary depends on the type of support needed, the number of hours required, the care schedule, and whether the client needs daytime, overnight, live-in, or 24-hour support. PSW can review your needs and provide a care option based on your schedule, service type, and level of support.",
+      "The cost of home care in Calgary depends on the type of support needed, the number of hours required, the care schedule, and whether the client needs daytime, overnight, live-in, or 24-hour support. R&M Prestige Care can review your needs and provide a care option based on your schedule, service type, and level of support.",
   },
   {
     question: "How quickly can home care start after I call?",
     answer:
-      "Home care can often be arranged based on caregiver availability, service needs, and schedule requirements. For urgent support, overnight care, or short-notice assistance, PSW can review your request and help you understand the earliest available care option.",
+      "Home care can often be arranged based on caregiver availability, service needs, and schedule requirements. For urgent support, overnight care, or short-notice assistance, R&M Prestige Care can review your request and help you understand the earliest available care option.",
   },
   {
     question: "Do you provide personal care assistance?",
@@ -38,12 +38,12 @@ const faqData: FaqItem[] = [
   {
     question: "Can I request overnight or 24-hour care?",
     answer:
-      "Yes. PSW offers morning shifts, evening shifts, night shifts, overnight care, live-in care, and 24/7 support services depending on client needs and staff availability.",
+      "Yes. R&M Prestige Care offers morning shifts, evening shifts, night shifts, overnight care, live-in care, and 24/7 support services depending on client needs and staff availability.",
   },
   {
     question: "Will I get the same caregiver every visit?",
     answer:
-      "PSW aims to provide consistent caregiver support whenever possible because familiarity helps build comfort and trust. Caregiver consistency depends on scheduling, care hours, availability, and the level of support required. If a regular caregiver is unavailable, the team works to arrange suitable coverage.",
+      "R&M Prestige Care aims to provide consistent caregiver support whenever possible because familiarity helps build comfort and trust. Caregiver consistency depends on scheduling, care hours, availability, and the level of support required. If a regular caregiver is unavailable, the team works to arrange suitable coverage.",
   },
 ];
 

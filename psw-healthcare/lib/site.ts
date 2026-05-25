@@ -4,10 +4,10 @@
  */
 
 export const siteConfig = {
-  name: "PSW",
+  name: "R&M Prestige Care",
   tagline: "Calgary Home Care & Healthcare Staffing Services",
   description:
-    "PSW is a Calgary-based home care and healthcare staffing provider serving families, seniors, individuals with disabilities, and healthcare facilities.",
+    "R&M Prestige Care is a Calgary-based home care and healthcare staffing provider serving families, seniors, individuals with disabilities, and healthcare facilities.",
   foundingYear: "2015",
 
   contact: {
